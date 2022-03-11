@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.375af80f.css",
+    "main.js": "/static/js/main.2078be74.js",
+    "static/media/gamelogin.gif": "/static/media/gamelogin.ffb079f58d09361881d4.gif",
+    "static/media/signupgif.gif": "/static/media/signupgif.01ae0e01ee6393c05ed9.gif",
+    "index.html": "/index.html",
+    "main.375af80f.css.map": "/static/css/main.375af80f.css.map",
+    "main.2078be74.js.map": "/static/js/main.2078be74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375af80f.css",
+    "static/js/main.2078be74.js"
+  ]
+}
