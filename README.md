@@ -1,3 +1,12 @@
+To show the front end go into the frontend folder and right click git bash here and then type npm start thanks :)
+
+
+Here is the link to the presentation I made which is easier to read and includes the screenshots
+https://docs.google.com/presentation/d/1YpzTfrT5AtYj2IoZ6YjmiN6JaltfClGVOazpkrWjW4Y/edit?usp=sharing
+
+
+
+
 How I expected the challenge to go 
 
 I expected the project to go sooo much different to how it came out. I planned to make something to try
@@ -31,17 +40,4 @@ login button I will make it redirect you to the customize weapon play
 page.
 
 
-Enter your desired username which has to be unique to the sql database.
-Click the signup button to have the user i.d saved into the sql database
-Enter your desired password which must be between 6 and 40 characters.
-Enter your email address Home page link Login page link Signup page link
 
-Postman Screenshot
-
-Mysql tables and users
-
-Creating new user
-
-Pressing signup
-
-User being saved into the database
